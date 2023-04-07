@@ -1,2 +1,2 @@
 # KIlitmall-E-commerce
-Rimple Ecommerce using  React.js and Node.js
+Simple Ecommerce using  React.js and Node.js
